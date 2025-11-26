@@ -305,7 +305,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Телефон</div>
-                    <div className="text-lg font-semibold">+7 (495) 123-45-67</div>
+                    <div className="text-lg font-semibold">+7 (424) 250-03-85</div>
                   </div>
                 </div>
 
@@ -315,7 +315,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Email</div>
-                    <div className="text-lg font-semibold">info@klinpro.ru</div>
+                    <div className="text-lg font-semibold">torg-potol@list.ru</div>
                   </div>
                 </div>
 
@@ -325,7 +325,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Адрес</div>
-                    <div className="text-lg font-semibold">г. Москва, ул. Примерная, д. 1</div>
+                    <div className="text-lg font-semibold">г. Южно-Сахалинск, Шлакоблочная, 34 оф. 206</div>
                   </div>
                 </div>
 
@@ -410,7 +410,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Sparkles" size={28} />
-                <span className="text-xl font-bold">КлинПро</span>
+                <span className="text-xl font-bold">Клининговая служба</span>
               </div>
               <p className="text-slate-300">
                 Профессиональная уборка после ремонта и строительства
