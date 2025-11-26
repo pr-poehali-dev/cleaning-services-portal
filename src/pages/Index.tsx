@@ -65,11 +65,11 @@ const Index = () => {
               </div>
               <div className="flex gap-8 pt-4">
                 <div>
-                  <div className="text-3xl font-bold text-primary">500+</div>
+                  <div className="text-3xl font-bold text-primary">50000+</div>
                   <div className="text-sm text-muted-foreground">Выполненных объектов</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold text-primary">24ч</div>
+                  <div className="text-3xl font-bold text-primary">7 дней в неделю</div>
                   <div className="text-sm text-muted-foreground">Готовность выехать</div>
                 </div>
                 <div>
@@ -253,7 +253,7 @@ const Index = () => {
               />
             </div>
             <div className="space-y-6">
-              <h2 className="text-4xl font-bold">О компании КлинПро</h2>
+              <h2 className="text-4xl font-bold">О компании Клининговая служба</h2>
               <p className="text-lg text-muted-foreground">
                 Мы специализируемся на профессиональной уборке после ремонта и строительства с 2015 года. 
                 За это время успешно выполнили более 500 проектов различной сложности.
@@ -338,7 +338,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Режим работы</div>
-                    <div className="text-lg font-semibold">Ежедневно с 8:00 до 22:00</div>
+                    <div className="text-lg font-semibold">Ежедневно с 8:00 до 20:00</div>
                   </div>
                 </div>
               </div>
