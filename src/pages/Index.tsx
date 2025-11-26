@@ -218,7 +218,7 @@ const Index = () => {
                   <span className="font-semibold">от 3000 ₽</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b">
-                  <span>Устранение неприятных запахов (сухой туман) (за м²)</span>
+                  <span>Устранение неприятных запахов (сухой туман)</span>
                   <span className="font-semibold">600 р.</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b">
