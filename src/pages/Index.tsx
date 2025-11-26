@@ -191,19 +191,19 @@ const Index = () => {
               <CardContent className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b">
                   <span>1-комнатная квартира</span>
-                  <span className="font-semibold">от 5 000 ₽</span>
+                  <span className="font-semibold">от 20 000 ₽</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b">
                   <span>2-комнатная квартира</span>
-                  <span className="font-semibold">от 7 000 ₽</span>
+                  <span className="font-semibold">от 30 000 ₽</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b">
                   <span>3-комнатная квартира</span>
-                  <span className="font-semibold">от 9 000 ₽</span>
+                  <span className="font-semibold">от 36 000 ₽</span>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span>Частный дом (за м²)</span>
-                  <span className="font-semibold">от 150 ₽</span>
+                  <span className="font-semibold">от 600 ₽</span>
                 </div>
               </CardContent>
             </Card>
