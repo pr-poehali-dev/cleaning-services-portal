@@ -219,7 +219,7 @@ const Index = () => {
                 </div>
                 <div className="flex justify-between items-center py-2 border-b">
                   <span>Устранение неприятных запахов (сухой туман)</span>
-                  <span className="font-semibold">600 р.</span>
+                  <span className="font-semibold">600 р. кв.м</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b">
                   <span>Вывоз мусора (за м³)</span>
