@@ -305,7 +305,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Телефон</div>
-                    <div className="text-lg font-semibold">+7 (424) 250-03-85</div>
+                    <div className="text-lg font-semibold">+7 (4242)50-03-85</div>
                   </div>
                 </div>
 
@@ -439,7 +439,7 @@ const Index = () => {
             <div>
               <h3 className="font-semibold text-lg mb-4">Контакты</h3>
               <ul className="space-y-2 text-slate-300">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 (4242) 500-385</li>
                 <li>info@klinpro.ru</li>
                 <li>Москва, ул. Примерная, 1</li>
               </ul>
