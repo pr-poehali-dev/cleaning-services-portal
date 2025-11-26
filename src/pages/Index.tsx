@@ -26,7 +26,7 @@ const Index = () => {
           <nav className="flex items-center justify-between h-20">
             <div className="flex items-center gap-2">
               <Icon name="Sparkles" className="text-primary" size={32} />
-              <span className="text-2xl font-bold text-primary">КлинПро</span>
+              <span className="text-2xl font-bold text-primary">Клининговая служба</span>
             </div>
             <div className="hidden md:flex items-center gap-8">
               <a href="#home" className="text-foreground hover:text-primary transition-colors">Главная</a>
