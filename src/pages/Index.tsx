@@ -440,8 +440,8 @@ const Index = () => {
               <h3 className="font-semibold text-lg mb-4">Контакты</h3>
               <ul className="space-y-2 text-slate-300">
                 <li>+7 (4242) 500-385</li>
-                <li>info@klinpro.ru</li>
-                <li>Москва, ул. Примерная, 1</li>
+                <li>torg-potol@list.ru</li>
+                <li>Южно-Сахалинск, Шлакоблочная, 34 оф. 206</li>
               </ul>
             </div>
           </div>
