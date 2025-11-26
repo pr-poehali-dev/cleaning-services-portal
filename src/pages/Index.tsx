@@ -254,10 +254,7 @@ const Index = () => {
             </div>
             <div className="space-y-6">
               <h2 className="text-4xl font-bold">О компании Клининговая служба</h2>
-              <p className="text-lg text-muted-foreground">
-                Мы специализируемся на профессиональной уборке после ремонта и строительства с 2015 года. 
-                За это время успешно выполнили более 500 проектов различной сложности.
-              </p>
+              <p className="text-lg text-muted-foreground">Мы специализируемся на профессиональной уборке после ремонта и строительства с 2015 года. За это время успешно выполнили более 50000 проектов различной сложности.</p>
               <div className="space-y-4">
                 <div className="flex gap-4">
                   <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
